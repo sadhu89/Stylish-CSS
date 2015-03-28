@@ -1,0 +1,5 @@
+@-moz-document domain("facebook.com") {
+#topnews_main_stream_408239535924329,#u_0_g,.ego_section,#appsNav,#listsNav{
+  display:none;
+}
+}
